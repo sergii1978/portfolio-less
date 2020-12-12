@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'montserratbold';
+    src: url('montserrat-bold.eot');
+    src: url('montserrat-bold.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-bold.woff2') format('woff2'),
+         url('montserrat-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'montserratlight';
+    src: url('montserrat-light.eot');
+    src: url('montserrat-light.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-light.woff2') format('woff2'),
+         url('montserrat-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'montserratlight_italic';
+    src: url('montserrat-lightitalic.eot');
+    src: url('montserrat-lightitalic.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-lightitalic.woff2') format('woff2'),
+         url('montserrat-lightitalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'montserratregular';
+    src: url('montserrat-regular.eot');
+    src: url('montserrat-regular.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-regular.woff2') format('woff2'),
+         url('montserrat-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
